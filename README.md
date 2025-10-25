@@ -183,7 +183,3 @@ VITE_APP_VERSION=1.0.0
 ## 📄 License
 
 This project is licensed under the ISC License - see the individual README files for details.
-
-## 📞 Support
-
-For support or questions, please create an issue in the repository or contact the development team.
