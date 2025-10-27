@@ -1,4 +1,4 @@
-# BharatCDX E-Commerce Platform
+#  E-Commerce Platform
 
 A full-stack e-commerce platform built with modern technologies, featuring a comprehensive backend API and a responsive frontend application.
 
